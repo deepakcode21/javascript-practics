@@ -1,3 +1,6 @@
+<!--- Snake --->
+<div align="center">
+ 
+<img src="https://github.com/deepakcode21/deepakcode21/blob/output/github-snake-dark.svg" width="250%">
 
-
-![text](https://github.com/user-attachments/assets/b6416fc2-52f0-4797-a1e1-a3916c5c5093)
+</div>
